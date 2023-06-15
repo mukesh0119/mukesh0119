@@ -1,4 +1,3 @@
-### KEERTHIVASAN SARAVANAN
 <!-- HTML and CSS Designs -->
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
   <h3 style="color: #555; font-size: 20px;">KEERTHIVASAN SARAVANAN</h3>
