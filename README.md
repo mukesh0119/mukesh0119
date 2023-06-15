@@ -12,6 +12,6 @@
   <p style="color: #333; font-size: 20px;">Let us connect and embark on a journey of continuous learning and innovation.</p>
   <br>
   <div style="text-align: center;">
-    <a href="https://github.com/mukesh0119" style="background-color: #555; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Visit My GitHub</a>
+    <a href="https://github.com/mukesh0119?tab=repositories" style="background-color: #555; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Visit My GitHub Repositories</a>
   </div>
 </div>
